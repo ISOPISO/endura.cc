@@ -10,6 +10,6 @@ A darkened discord theme with rounded chat and sidebars.
 
 Download this repo.
 
-Put the `fakecrime.theme.css` into your betterdiscord (or other client) theme folder.
+Put the `endura.theme.css` into your betterdiscord (or other client) theme folder.
 
 IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!
